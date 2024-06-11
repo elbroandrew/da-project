@@ -1,12 +1,12 @@
-price              23699 non-null float64
-total_area              23699 non-null float64
+price                   23699 non-null float64      data-mark="MainPrice"
+total_area              23699 non-null float64      data-mark="OfferTitle"  // Студия, 23,2 м², 5/9 этаж
 first_day_exposition    23699 non-null object
 rooms                   23699 non-null int64
 ceiling_height          14504 non-null float64
-floors_total            23613 non-null float64
-living_area             21796 non-null float64
-floor                   23699 non-null int64
-studio                  23699 non-null bool
+floors_total            23613 non-null float64      data-mark="OfferTitle"  // Студия, 23,2 м², 5/9 этаж
+living_area             21796 non-null float64      
+floor                   23699 non-null int64        data-mark="OfferTitle"  // Студия, 23,2 м², 5/9 этаж
+studio                  23699 non-null bool         data-mark="OfferTitle"  // Студия, 23,2 м², 5/9 этаж
 kitchen_area            21421 non-null float64
 balcony                 12180 non-null float64
 locality_name           23650 non-null object
